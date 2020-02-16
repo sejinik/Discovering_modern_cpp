@@ -4,6 +4,7 @@
 // make_shared를 통해 만들어야 효율적이다
 
 #include <iostream>
+
 #include <memory>
 
 using namespace std;
